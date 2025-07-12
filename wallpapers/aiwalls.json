@@ -1,7 +1,14 @@
 [
 	{
+		"name": "Abstract",
+		"author": "Ashneet",
+		"dimensions": "1080 x 2400",
+		"url": "https://raw.githubusercontent.com/Ashneet8040/AestheticaAI/refs/heads/main/wallpapers/Abst1.jpg",
+		"collections": "Abstract"
+	},
+	{
 		"name": "Dogs",
-		"author": "Dogs",
+		"author": "Ashneet",
 		"dimensions": "1080 x 2400",
 		"url": "https://ashneet8040.github.io/AestheticaAI/wallpapers/goldengolden.jpg",
 		"collections": "Dogs"

@@ -1,10 +1,17 @@
 [
 	{
-		"name": "Dogs",
+		"name": "Animals",
+		"author": "Ashneet",
+		"dimensions": "1080 x 2400",
+		"url": "https://github.com/Ashneet8040/AestheticaAI/blob/main/wallpapers/Abst1.jpg",
+		"collections": "Animals"
+	},
+	{
+		"name": "Animals",
 		"author": "Ashneet",
 		"dimensions": "1080 x 2400",
 		"url": "https://github.com/Ashneet8040/AestheticaAI/blob/main/wallpapers/dogwallpaper.jpg",
-		"collections": "Dogs"
+		"collections": "Animals"
 	},
 	{
 		"name": "Dogs",

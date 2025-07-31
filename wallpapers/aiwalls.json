@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Cats",
+		"dimensions": "1080 x 2400",
+		"url": "https://raw.githubusercontent.com/Ashneet8040/AestheticaAI/refs/heads/main/wallpapers/Cat1.png",
+		"collections": "Cats"
+	},
+	{
 		"name": "Abstract",
 		"author": "Ashneet",
 		"dimensions": "1080 x 2400",
